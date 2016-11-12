@@ -66,7 +66,7 @@
 		<li>Maior comércio eletrônico de moda do mundo</li>
 		<li>Atendimento via telefone, email, chat, twitter, facebook, carta, fax e telegrama.</li>
 		<li>Presente em 124 países</li>
-		<li>Mais de um milhão de funcionários em todo o mundo!!!</li>
+		<li>Mais de um milhão de funcionários em todo o mundo!!!!</li>
 	</ul>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Tb06abHE4hY" frameborder="0" allowfullscreen></iframe>
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41507.28341892395!2d-49.99953486398083!3d-23.142439002128363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c026544d26f253%3A0xc66dac11dad56f73!2sJacarezinho%2C+PR!5e0!3m2!1spt-BR!2sbr!4v1478966600093" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
